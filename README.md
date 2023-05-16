@@ -9,3 +9,11 @@ The COVID-19 Tracker App is a Flutter project developed to provide real-time upd
 - Live data updates: The app fetches data from reliable sources to provide the latest information about COVID-19 cases globally.
 - Global and country-specific data: Users can view both global statistics and data specific to a particular country.
 - Search functionality: Users can search for a specific country to get detailed information about COVID-19 cases in that location.
+
+## API Usage
+
+This app relies on a COVID-19 data API to fetch the necessary information. The app uses the following API:
+
+COVID-19 Data API
+
+Please ensure you have a stable internet connection to retrieve the latest data.
