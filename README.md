@@ -14,6 +14,6 @@ The COVID-19 Tracker App is a Flutter project developed to provide real-time upd
 
 This app relies on a COVID-19 data API to fetch the necessary information. The app uses the following API:
 
-COVID-19 Data API
+[COVID-19 Data API](https://disease.sh/v3/covid-19/all)
 
 Please ensure you have a stable internet connection to retrieve the latest data.
